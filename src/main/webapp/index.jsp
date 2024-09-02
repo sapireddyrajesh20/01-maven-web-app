@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1> <font color ='red'> Hello Friends I Am Rajesh Royal <font></h1>
+<h1> <font color ='blue'> Hello Friends I Am Rajesh Royal <font></h1>
     <div class="container">
         <div class="calculator">
             <h1>Age Calculator</h1>
