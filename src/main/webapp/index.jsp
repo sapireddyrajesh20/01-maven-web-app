@@ -1,355 +1,711 @@
 <!DOCTYPE html>
-<html>
 <html lang="en">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description"
-	content="Flame Bot is a multipurpose bot with Moderation, Leveling System, Fun commands, Utility Commands, Giveaways command, Music, and more!">
-<meta name="keywords"
-	content=" Discord, Discordbot, Discord, bot, Discord, Music, Bot, Discord, Musicbot, Musicbot, Music, bot">
-<meta property=og:image
-	content='https://images-ext-1.discordapp.net/external/_RUs495N4XCOXvIGq5NPHavewThI3Y6OjeeWg1Hw4GY/https/media.discordapp.net/attachments/784784343863263246/806784598503718943/flame_website_logo.gif'>
-<meta http-equiv="content-language" content="en">
-<meta name="robots" content="index, follow">
-<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='http://glutenfreeliv.in/wp/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1605542014' type='text/css' media='all' />
-
 <head>
-	<meta charset="utf-8">
-	<title>Flame Bot- Disord Bot</title>
-
-	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<link rel="shortcut icon"
-		href="https://media.discordapp.net/attachments/796358841038143488/798846894461550622/flame.png?width=427&height=427">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<!--using FontAwesome--------------->
-	<link rel="preconnect" href="https://fonts.gstatic.com">
-	<link
-		href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
-		rel="stylesheet">
-
-	<script crossorigin="anonymous" src="https://kit.fontawesome.com/c8e4d183c2.js"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smartphones- Galary Mobiles-Smart Phones in India</title>
+    <link rel="stylesheet" href="./style.css">
 </head>
-
-<body id="body-pd">
-	<div class="l-navbar" id="navbar">
-		<nav class="nav">
-			<div>
-				<div class="nav__brand">
-					<ion-icon name="menu-outline" class="nav__toggle" id="nav-toggle"></ion-icon>
-
-					<a href="https://dsc.gg/flamebot" class="nav__logo">Flame Bot </a>
-
-				</div>
-				<div class="nav__list">
-					<a href="index.html" class="nav__link active">
-						<ion-icon name="home-outline" class="nav__icon"></ion-icon>
-						<span class="nav__name">Home</span>
-
-						<a href="https://flamebot.gitbook.io/flame-bot/" target="_blank" class="nav__link">
-							<ion-icon name="bar-chart-outline" class="nav__icon"></ion-icon>
-							<span class="nav__name">Commands</span>
-						</a>
-					</a>
-					<a href="#about" class="nav__link">
-						<ion-icon name="information-circle-outline" class="nav__icon"></ion-icon>
-						<span class="nav__name">About Flame Bot</span>
-					</a>
-
-					<a href="#introduction" class="nav__link">
-						<ion-icon name="logo-youtube" class="nav__icon"></ion-icon>
-						<span class="nav__name">Introduction</span>
-					</a>
-
-					<a href="#Features" class="nav__link">
-						<ion-icon name="layers-outline" class="nav__icon"></ion-icon>
-						<span class="nav__name">Features</span>
-					</a>
-
-					<a href="#client" class="nav__link">
-						<ion-icon name="ribbon-outline" class="nav__icon"></ion-icon>
-						<span class="nav__name">Developer</span>
-					</a>
-
-
-				</div>
-			</div>
-		</nav>
-	</div>
-
-	<a href="index.html" id="scroll-up" style="display: inline;"></a>
-	<!-- Maker Badge -->
-	<script type="text/javascript">
-		(function (w, d) {
-			w.makerbadge = {}, methods = ['init'];
-			w.makerbadge._c = [];
-			methods.forEach(m => { w.makerbadge[m] = function () { w.makerbadge._c.push([m, arguments]); } });
-			var el = d.createElement('script'); el.type = "text/javascript"; el.async = true; el.src = "https://makerbadge.com/shim.js";
-			var before = d.getElementsByTagName('script')[0]; before.parentNode.insertBefore(el, before);
-		})(window, document);
-		makerbadge.init({ clientId: "d99137e9-ad0d-4d55-b23e-76e129def979", position: "left" });
-	</script>
-
-	<!-- ===== IONICONS ===== -->
-	<script src="https://unpkg.com/ionicons@5.1.2/dist/ionicons.js"></script>
-
-	<!-- ===== MAIN JS ===== -->
-	<script src="js/main.js"></script>
-</body>
-
 <body>
-	<nav class="navigation">
-		<a href="#" class="logo">
-			<img src="https://cdn.discordapp.com/avatars/771030287122432000/cd36dfae5dc071c680436c7ffb442017.png">
-		</a>
+    <div class="top-header">
+       <a href="">
+        <div>
+            <img src="./images/cropped-99Prime_news-removebg-preview.png.webp">
+        </div>
+       </a> 
+        <div class="listitem1">
+            <ul>
+                <li><a href="">News Stories</a> </li>
+                <li><a href="">Stock Market</a> </li>
+                <li><a href=""> Movie Reviews</a> </li>
+                <li><a href="">Government Schemes</a> </li>
+                <li><a href="">Contact Us</a> </li>
+            </ul>
+        </div>
+        
+        <div class="listitem3">
+            <img src="./images/Facebook_Logo_(2019).png.webp">
+            <img src="./images/Instagram_logo_2016.svg.webp">
+            <img src="./images/Logo_of_Twitter.svg.webp">
+        </div>
+    </div>
 
-		<ul class="menu">
-			<li><a href="index.html">Home</a></li>
-			<li><a href="https://flamebot.gitbook.io/flame-bot/" target="_blank">Commands</a></li>
-			<li><a href="https://discord.gg/FCP2HWksBU" target="_blank">Join us on Discord</a></li>
-			<li><a href="https://top.gg/bot/796279185080582185/vote" target="_blank">Vote</a></li>
-		</ul>
-		<a href="https://dsc.gg/flamebot" class="hire-me" target="_blank">
-			Invite Me
-			<i class="fas fa-chevron-right"></i>
-		</a>
-	</nav>
+    <div class="top-header1">
+        <a href="">
+            <div class="text">Mobile</div>
+        </a>
+        <div>
+            <ul>
+                <li><a href="">Smartphones</a> </li>
+                <li><a href="">Tablets</a> </li>
+                <li><a href="">Galaxy Books</a> </li>
+                <li><a href="">Watches</a> </li>
+                <li><a href="">Galaxy Buds</a> </li>
+                <li><a href="">Accesories</a> </li>
+            </ul>
+        </div>
+    </div>
 
-	<section id="main">
-		<div class="main-text" data-aos="fade-up">
-			<h1>FLAME BOT</h1>
-			<p>Flame Bot is a multipurpose bot with Moderation, Leveling System, Fun commands, Utility Commands,
-				Giveaways command, Music, and more!</p>
-			<div class="main-btns">
-				<a href="https://dsc.gg/flamebot" target="_blank" class="download-cv-btn">Invite Me</a>
-				<a href="https://discord.gg/FCP2HWksBU" target="_blank" class="hire-me-btn">Support Server</a>
-			</div>
-		</div>
-		<!--mode-bg------------>
+   <div class="top-list">
+        <a href="">
+            <div class="top-header2">
+                <div>
+                    <img src="./images/PCD_Galaxy_Z_KV_LNB_pc.webp">
+                </div>
+                <div class="text">
+                    <div class="text1">Galaxy Z</div>
+                    <div class="text2">Unfold your world</div>
+                </div>
+            </div>
+        </a>
+        <a href="">
+            <div class="top-header2">
+                <div>
+                    <img src="./images/PCD_B0_KV_LNB_pc.webp">
+                </div>
+                <div class="text">
+                    <div class="text1">Galaxy S</div>
+                    <div class="text2">Galary's fastest chip set and best camera</div>
+                </div>
+            </div>
+        </a>
+        <a href="">
+            <div class="top-header2">
+                <div>
+                    <img src="./images/PCD_LNB_PC_45X96.webp">
+                </div>
+                <div class="text">
+                    <div class="text1">Galaxy A</div>
+                    <div class="text2">Galary innovation made accessable all</div>
+                </div>
+            </div>
+        </a>
+        <a href="">
+            <div class="top-header2">
+                <div>
+                    <img src="./images/LNB_icon_Smartphones_GalaxyM32_White_pc.webp">
+                </div>
+                <div class="text">
+                    <div class="text1">Galaxy M</div>
+                    <div class="text2">Power and speed at a price you'll love</div>
+                </div>
+            </div>
+        </a>
+        <a href="">
+            <div class="top-header2">
+                <div>
+                    <img src="./images/PCD_Compare_KV_LNB_pc.webp">
+                </div>
+                <div class="text">
+                    <div class="text1">Compare</div>
+                    <div class="text2">See how our smartphones stack up</div>
+                </div>
+            </div>
+        </a>
+    </div>
+
+   <div class="video-contents">
+    <div class="video">
+        <video src="./videos/PCD_Combo_KV_Main-KV_1440x640_pc_v1.mp4" controls autoplay loop></video>
+     </div>
+    <div class="text">
+        <div class="text1">Galaxy Z Fold4 | Z Flip 4</div>
+        <div>
+            <a href="">
+                learn more
+            </a>
+            <button>Buy now</button>
+       </div>
+       </div>
+   </div>
+
+   <h1>What's New</h1>
+   <div class="galary1">
+    <a href="">
+        <div class="Galaxyz">
+            <div>
+                <img src="./images/PCD_B4_KV_Merchandising_376X376_pc.webp">
+            </div>
+            <div>
+                GalaxyZ Flip4
+            </div>
+            <div>
+                <button>Learn more</button>
+            </div>
+            <div class="new-button">
+                <button>New</button>
+            </div>
+        </div>
+    </a>
+    <div class="subgalary">
+        <div>
+            <a href="">
+                <div class="Galaxyz1">
+    
+                    <div>
+                        <img src="./images/PCD_Q4_KV_Merchandising_160x160_pc.webp">
+                    </div>
+                    <div>
+                        GalaxyZ Flod4
+                    </div>
+                    <div>
+                        <button>Learn more</button>
+                    </div>
+                    <div class="new-button">
+                        <button>New</button>
+                    </div>
+                </div>
+            </a>
+            <a href="">
+                <div class="Galaxyz1">
+                    <div>
+                        <img src="./images/PCD_S22_KV_Merchandising_160X160_pc.webp">
+                    </div>
+                    <div>
+                        Galaxy S22|22+
+                    </div>
+                    <div>
+                        <button>Learn more</button>
+                    </div>
+                    <div class="new-button">
+                        <button>New</button>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div>
+            <a href="">
+                <div class="Galaxyz1">
+                    <div>
+                        <img src="./images/PCD_B_KV_Merchandising_160X160_pc.webp">
+                    </div>
+                    <div>
+                        GalaxyZ S22 Ultra
+                    </div>
+                    <div>
+                        <button>Learn more</button>
+                    </div>
+                    <div class="new-button">
+                        <button>New</button>
+                    </div>
+                </div>
+            </a>
+            <a href="">
+                <div class="Galaxyz1">
+                    <div>
+                        <img src="./images/PCD_Product-Tile_PC_160X160.webp">
+                    </div>
+                    <div>
+                        Galary A53 5G
+                    </div>
+                    <div>
+                        <button>Learn more</button>
+                    </div>
+                    <div class="new-button">
+                        <button>New</button>
+                    </div>
+                </div>
+            </a>
+        </div>
+       
+        
+    </div>
+   </div>
+   <div class="image-contents">
+    <div class="image">
+        <img src="./images/PCD_Galaxy-Z_Curation-KV_1440x640_pc_LTR.webp" alt="">
+     </div>
+    <div class="text">
+        <div class="text1">Galaxy Z</div>
+        <div>
+            <div>
+                Unfold your World
+            </div>
+            
+            <button>see all</button>
+       </div>
+       </div>
+   </div>
+
+   <div class="cards">
+        <div class="mobilecards">
+            <div class="card">
+                <div>
+                    <img src="./images/in-galaxy-z-flip4-f721-sm-f721blbainu-thumb-533048735.webp">
+                </div>
+                <div class="heading">
+                    Galaxy Z Flip4
+                </div>
+                <div>
+                    Colour :Blue
+                </div>
+                <div class="circles">
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                </div>
+                <div class="buttons">
+                    <button> 128 GB</button>
+                    <div>
+                        256 GB
+                    </div>
+                </div>
+                <div class="text">
+                    From ₹4940.41/mo for 18 most at 14.99% Interest or ₹ 89999.00
+                </div>
+                <button class="button">Buy Now</button>
+                <div class="new-button">
+                    <button>New</button>
+                </div>
+            </div>
+            <div class="card">
+                <div>
+                    <img src="./images/in-galaxy-z-fold4-f936-sm-f936bzkhinu-thumb-533084213.webp">
+                </div>
+                <div class="heading">
+                    Galaxy Z Fold4
+                </div>
+                <div>
+                    Colour :Phantomblack
+                </div>
+                <div class="circles">
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                </div>
+                <div class="buttons">
+                    <button> 512 GB</button>
+                    <div>
+                        1 TB
+                    </div>
+                </div>
+                <div class="text">
+                    From ₹10155.36/mo for 18 mos at 14.99% Interest or ₹ 184999.00
+                </div>
+                <button class="button">Buy Now</button>
+                <div class="new-button">
+                    <button>New</button>
+                </div>
+            </div>
+            <div class="card">
+                <div>
+                    <img src="./images/in-galaxy-z-fold3-f926-5g-sm-f926bzkdinu-thumb-474118703.webp">
+                </div>
+                <div class="heading">
+                    Galaxy Z Fold3 5G
+                </div>
+                <div>
+                    Colour :Phantom Black
+                </div>
+                <div class="circles">
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                </div>
+                <div class="buttons">
+                    <button> 256 GB</button>
+                    <div>
+                        512 GB
+                    </div>
+                </div>
+                <div class="text">
+                    From ₹6566.06/mo for 18 mos at 15% Interest or ₹ 119999.00
+                </div>
+                <button class="button">Buy Now</button>
+                <div class="new-button">
+                    <button>New</button>
+                </div>
+            </div>
+            <div class="card">
+            <div>
+                <img src="./images/in-galaxy-s22-plus-s906-412931-sm-s906ezwginu-thumb-530963923.webp">
+            </div>
+            <div class="heading">
+                Galaxy Z Flip3 5G
+            </div>
+            <div>
+                Colour :Cream
+            </div>
+            <div class="circles">
+                <div class="circle"></div>
+                <div class="circle"></div>
+                <div class="circle"></div>
+                <div class="circle"></div>
+            </div>
+            <div class="buttons">
+                <button> 128 GB</button>
+                <div>
+                    256 GB
+                </div>
+            </div>
+            <div class="text">
+                From ₹3830.18/mo for 18 mos at 15% Interest or ₹ 69999.00
+            </div>
+            <button class="button">Buy Now</button>
+            <div class="new-button">
+                <button>New</button>
+            </div>
+        </div>
+        </div>
+        <button class="see-button">see all</button>
+   </div>
+
+   <div class="image-contents1">
+    <div>
+        <div class="text1">Find your Galaxy Z</div>
+        <div>
+                Get matched with your ideal foldable phone.
+        </div>
+        <button>Start here</button>
+    </div>
+    <div class="image">
+        <img src="./images/galaxy-z-finder-intro.jpg">
+     </div>
+    
+   </div>
+
+   <div class="image-contents">
+    <div class="image">
+        <img src="./images/PCD_Combo_KV_Curation-KV_1440x640_pc.webp" alt="">
+     </div>
+    <div class="text">
+        <div class="text1">Galaxy S</div>
+        <div>
+            <div>
+                Welcome to the epic standard
+            </div>
+            
+            <button>see all</button>
+       </div>
+       </div>
+   </div>
+
+   <div class="cards">
+    <div class="mobilecards">
+        <div class="card">
+            <div>
+                <img src="./images/1.webp">
+            </div>
+            <div class="heading">
+                Galaxy S22 Ultra
+            </div>
+            <div>
+                Colour :Phantom Black
+            </div>
+            <div class="circles">
+                <div class="circle"></div>
+                <div class="circle"></div>
+                <div class="circle"></div>
+                <div class="circle"></div>
+            </div>
+            <div class="buttons">
+                <button> 256 GB</button>
+                <div>
+                    512 GB
+                </div>
+            </div>
+            <div class="text">
+                From ₹6784.86/mo for 18 mos at 13.5% Interest or ₹ 109999.00
+            </div>
+            <button class="button">Buy Now</button>
+            <div class="new-button">
+                <button>New</button>
+            </div>
+        </div>
+        <div class="card">
+            <div>
+                <img src="./images/2.webp">
+            </div>
+            <div class="heading">
+                Galaxy S22+
+            </div>
+            <div>
+                Colour :Phantom White
+            </div>
+            <div class="circles">
+                <div class="circle"></div>
+                <div class="circle"></div>
+                <div class="circle"></div>
+                <div class="circle"></div>
+            </div>
+            <div class="buttons">
+                <button> 128 GB</button>
+                <div>
+                    256 GB
+                </div>
+            </div>
+            <div class="text">
+                From ₹4317.61/mo for 18 mos at 13.5% Interest or ₹ 69999.00
+            </div>
+            <button class="button">Buy Now</button>
+            <div class="new-button">
+                <button>New</button>
+            </div>
+        </div>
+        <div class="card">
+            <div>
+                <img src="./images/3.webp">
+            </div>
+            <div class="heading">
+                Galaxy S22
+            </div>
+            <div>
+                Colour :Bora Purple
+            </div>
+            <div class="circles">
+                <div class="circle"></div>
+                <div class="circle"></div>
+                <div class="circle"></div>
+                <div class="circle"></div>
+            </div>
+            <div class="buttons">
+                <button> 128 GB</button>
+                <div>
+                    256 GB
+                </div>
+            </div>
+            <div class="text">
+                From ₹3885.84/mo for 18 mos at 13.5% Interest or ₹ 62999.00
+            </div>
+            <button class="button">Buy Now</button>
+            <div class="new-button">
+                <button>New</button>
+            </div>
+        </div>
+    </div>
+    <button class="see-button">see all</button>
+    </div>
+
+<div class="image-contents">
+    <div class="image">
+        <img src="./images/PCD_KV_optC_PC_1440X640.webp" alt="">
+     </div>
+    <div class="text">
+        <div class="text1">Galaxy A Series</div>
+        <div>
+            <div>
+                Awesome is for everyone
+            </div>
+            
+            <button>see all</button>
+       </div>
+       </div>
+   </div>
+
+   <div class="cards">
+    <div class="mobilecards">
+        <div class="card">
+            <div>
+                <img src="./images/4.webp">
+            </div>
+            <div class="heading">
+                Galaxy A53 5G (8GB RAM)
+            </div>
+            <div>
+                Colour : Blue
+            </div>
+            <div class="circles">
+                <div class="circle"></div>
+                <div class="circle"></div>
+                <div class="circle"></div>
+                <div class="circle"></div>
+            </div>
+            <div class="buttons">
+                <button> 128 GB</button>
+                <div>
+                    256 GB
+                </div>
+            </div>
+            <div class="text">
+                Monthly Price:From ₹2066.25/mo for 18 mos at 13.5% Interest or ₹ 33499.00
+
+            </div>
+            <button class="button">Buy Now</button>
+            <div class="new-button">
+                <button>New</button>
+            </div>
+        </div>
+        <div class="card">
+            <div>
+                <img src="./images/in-galaxy-z-fold4-f936-sm-f936bzkhinu-thumb-533084213.webp">
+            </div>
+            <div class="heading">
+                Galaxy Z Fold4
+            </div>
+            <div>
+                Colour :Phantomblack
+            </div>
+            <div class="circles">
+                <div class="circle"></div>
+                <div class="circle"></div>
+                <div class="circle"></div>
+                <div class="circle"></div>
+            </div>
+            <div class="buttons">
+                <button> 512 GB</button>
+                <div>
+                    1 TB
+                </div>
+            </div>
+            <div class="text">
+                From ₹10155.36/mo for 18 mos at 14.99% Interest or ₹ 184999.00
+            </div>
+            <button class="button">Buy Now</button>
+            <div class="new-button">
+                <button>New</button>
+            </div>
+        </div>
+        <div class="card">
+            <div>
+                <img src="./images/in-galaxy-z-fold3-f926-5g-sm-f926bzkdinu-thumb-474118703.webp">
+            </div>
+            <div class="heading">
+                Galaxy Z Fold3 5G
+            </div>
+            <div>
+                Colour :Phantom Black
+            </div>
+            <div class="circles">
+                <div class="circle"></div>
+                <div class="circle"></div>
+                <div class="circle"></div>
+                <div class="circle"></div>
+            </div>
+            <div class="buttons">
+                <button> 256 GB</button>
+                <div>
+                    512 GB
+                </div>
+            </div>
+            <div class="text">
+                From ₹6566.06/mo for 18 mos at 15% Interest or ₹ 119999.00
+            </div>
+            <button class="button">Buy Now</button>
+            <div class="new-button">
+                <button>New</button>
+            </div>
+        </div>
+        <div class="card">
+        <div>
+            <img src="./images/in-galaxy-s22-plus-s906-412931-sm-s906ezwginu-thumb-530963923.webp">
+        </div>
+        <div class="heading">
+            Galaxy Z Flip3 5G
+        </div>
+        <div>
+            Colour :Cream
+        </div>
+        <div class="circles">
+            <div class="circle"></div>
+            <div class="circle"></div>
+            <div class="circle"></div>
+            <div class="circle"></div>
+        </div>
+        <div class="buttons">
+            <button> 128 GB</button>
+            <div>
+                256 GB
+            </div>
+        </div>
+        <div class="text">
+            From ₹3830.18/mo for 18 mos at 15% Interest or ₹ 69999.00
+        </div>
+        <button class="button">Buy Now</button>
+        <div class="new-button">
+            <button>New</button>
+        </div>
+    </div>
+    </div>
+    <button class="see-button">see all</button>
+</div>
+
+<div class="image-contents">
+    <div class="image">
+        <img src="./images/PCD_Ecosystem_KV_Curation-KV_1440x640_pc.webp" alt="">
+     </div>
+    <div class="text">
+        <div class="text2">The connected power of Samsung Galaxy</div>
+        <div>
+            
+            <button>see all</button>
+       </div>
+       </div>
+   </div>
+
+   <div class="cards">
+    <div class="mobilecards">
+        <div class="card">
+            <div>
+                <img src="./images/5.webp">
+            </div>
+            <div class="heading1">
+                Galaxy Watch5 Bluetooth (44mm)
+            </div>
+            <div>
+                Colour :Graphite
+            </div>
+            <div class="circles">
+                <div class="circle"></div>
+                <div class="circle"></div>
+                <div class="circle"></div>
+            </div>
+            <div class="text">
+                From ₹1532.04/mo for 18 mos at 15% Interest or ₹ 30999.00
+            </div>
+            <button class="button">Buy Now</button>
+        </div>
+        <div class="card">
+            <div>
+                <img src="./images/6.webp">
+            </div>
+            <div class="heading1">
+                Galaxy Watch5 Pro Bluetooth (45mm)
+            </div>
+            <div>
+                Colour :Black Titanium
+            </div>
+            <div class="circles">
+                <div class="circle"></div>
+                <div class="circle"></div>
+            </div>
+            <div class="text">
+                From ₹2188.65/mo for 18 mos at 15% Interest or ₹ 44999.00
+            </div>
+            <button class="button">Buy Now</button>
+        </div>
+        <div class="card">
+            <div>
+                <img src="./images/7.webp">
+            </div>
+            <div class="heading1">
+                Galaxy Buds2 Pro
+            </div>
+            <div>
+                Colour :Borapurple
+            </div>
+            <div class="circles">
+                <div class="circle"></div>
+                <div class="circle"></div>
+                <div class="circle"></div>
+            </div>
+            <div class="text">
+                From ₹820.71/mo for 18 mos at 15% Interest or ₹ 17999.00
+            </div>
+            <button class="button">Buy Now</button>
+        </div>
+        
+        
+    </div>
+    <button class="see-button">see all</button>
+    </div>
 
 
-		<div class="model">
-			<img src="https://www.pngarts.com/files/3/Technology-PNG-Image-Background.png" data-aos="fade-up">
-		</div>
-	</section>
-	<!--about---------------------------->
-	<section id="about">
-		<!--about-text-section---->
-		<div class="about-text-section" data-aos="fade-up">
-			<!--heading--------->
-			<div class="skill-heading" data-aos="fade-up">
-				<span>About Flame Bot</span>
-				<p>Flame Bot was made by Javascript v12 Language, is a multi-purpose and a user-friendly bot which gives
-					you a lot of fun commands, Utility Commands! Moderation Commands! and more!</p>
-
-			</div>
-			<!--about-box-container--->
-			<div class="s-box-container">
-				<!--skill-box-->
-				<div class="skill-box" data-aos="fade-up">
-					<!--box-icon---->
-					<div class="s-box-icon">
-						<i>1</i>
-					</div>
-					<!--box-text---->
-					<div class="s-box-text">
-						<strong>Name</strong>
-						<p>Flame Bot (796279185080582185)</p>
-						<!--progress-line---->
-
-					</div>
-				</div>
-				<!--skill-box-->
-				<div class="skill-box" data-aos="fade-up">
-					<!--box-icon---->
-					<div class="s-box-icon">
-						<i>2</i>
-					</div>
-					<!--box-text---->
-					<div class="s-box-text">
-						<strong>Version</strong>
-						<p>1.5.8</p>
-						<!--progress-line---->
-
-					</div>
-				</div>
-				<!--skill-box-->
-				<div class="skill-box" data-aos="fade-up">
-					<!--box-icon---->
-					<div class="s-box-icon">
-						<i>3</i>
-					</div>
-					<!--box-text---->
-					<div class="s-box-text">
-						<strong>Bot library</strong>
-						<p>Discord.js (Javascript)</p>
-						<!--progress-line---->
-
-					</div>
-				</div>
-				<div class="skill-box" data-aos="fade-up">
-					<!--box-icon---->
-					<div class="s-box-icon">
-						<i>4</i>
-					</div>
-					<!--box-text---->
-					<div class="s-box-text">
-						<strong>Default Prefix</strong>
-						<p>f!</p>
-
-						<!--progress-line---->
-
-					</div>
-				</div>
-
-			</div>
-		</div>
-		<!--skill-img-section---------->
-		<aisle>
-			<div class="skill-img" data-aos="fade-up">
-				<img
-					src="https://images-ext-1.discordapp.net/external/_RUs495N4XCOXvIGq5NPHavewThI3Y6OjeeWg1Hw4GY/https/media.discordapp.net/attachments/784784343863263246/806784598503718943/flame_website_logo.gif" />
-			</div>
-		</aisle>
-	</section>
-
-	<section id="introduction">
-		<!--heading---->
-		<div class="intro-heading" data-aos="fade-up">
-			<strong>Introduction</strong>
-			<p>Hello, In this video you can get how to use Flame Bot. After Watching this video you know how does Flame
-				Bot works, Thanks!</p>
-		</div>
-		<!--place-your-self-introduction-video-here-->
-		<div class="intro-video" data-aos="fade-up">
-			<iframe src="https://www.youtube.com/embed/G8jqLaoPSgg" frameborder="0.5"></iframe>
-		</div>
-
-	</section>
 
 
-	<!--Features----------------------------------->
-	<section id="Features">
-		<!--heading----->
-		<strong class="Features-heading" data-aos="fade-up">
-			Features</strong>
-		<!--Features-box-container----->
-		<div class="Features-box-container">
-			<!--service-box--------->
-			<div class="service-box" data-aos="fade-up">
-				<!--icon-->
-				<i class="fas fa-code"></i>
-				<!--heading--->
-				<strong>Easy To Use</strong>
-				<!--details-->
-				<p>A bot that can help you with your server, just type f!help to get all the commands of the bot</p>
-			</div>
-			<!--service-box--------->
-			<div class="service-box" data-aos="fade-up">
-				<!--icon-->
-				<i class="fas fa-cogs"></i>
-				<!--heading--->
-				<strong>24/7 Online</strong>
-				<!--details-->
-				<p>Flame Bot is hosted on a very good host so it will be on 24/7, There is nothing to worry about
-					hosting in Flame Bot.
-				</p>
-			</div>
-			<!--service-box--------->
-			<div class="service-box" data-aos="fade-up">
-				<!--icon-->
-				<i class="fas fa-drafting-compass"></i>
-				<!--heading--->
-				<strong>Customizable Prefix</strong>
-				<!--details-->
-				<p>You can customize Flame Bot prefix in your server. Flame Bot provides facility to Customize bot
-					prefix in every server.</p>
-			</div>
-			<!--service-box--------->
-			<div class="service-box" data-aos="fade-up">
-				<!--icon-->
-				<i class="far fa-chart-bar"></i>
-				<!--heading--->
-				<strong>100+ Commands</strong>
-				<!--details-->
-				<p>Yes Flame Bot has more than 100 commands! and more commands can be added in future.
-				</p>
-			</div>
-		</div>
-	</section>
-	<section id="get-in-touch" data-aos="fade-up">
-		<span>Still not conviced for inviting, Let test the Bot on the Support server.</span>
-		<a href="https://discord.gg/FCP2HWksBU" target="_blank">Support Server</a>
-	</section>
-
-	<!--client----------------------------------->
-	<section id="client">
-		<!--heading------->
-		<div class="client-heading">
-			<strong class="Featur-heading" data-aos="fade-up">
-				Developer</strong>
-			<!--client-box-container--------------->
-			<div class="c-box-container">
-				<!--box-1----->
-				<div class="client-box">
-					<!--img-------->
-					<img src="images/fire.gif" />
-					<!--stars/reviews---------->
-					<!-- <div class="star">
-						<i class="fas fa-star"></i>
-						<i class="fas fa-star"></i>
-						<i class="fas fa-star"></i>
-						<i class="fas fa-star"></i>
-						<i class="fas fa-star"></i>
-					</div> -->
-					<!--details/comment------>
-					<p><b>FiredragonPlayz</b></p>
-					<!--btn--------->
-
-				</div>
-			</div>
-			<br />
-
-
-			<a href="https://discord.com/users/725945760629129277">
-				<img src="https://discord.c99.nl/widget/theme-3/725945760629129277.png" alt="Discord" />
-			</a>
-
-			<br />
-			<a href="https://github.com/FiredragonPlayz">
-				<img src="https://github-readme-stats.vercel.app/api?username=firedragonplayz&show_icons=true&hide_border=true&theme=tokyonight"
-					alt="Github">
-			</a><br />
-
-
-	</section>
-
-	<footer>
-		<!--copyright-->
-		<span class="copyright">Copyright © 2020 Flame Bot Project. All rights reserved.</span>
-		<!--footer-social-links---->
-		<div class="footer-social">
-			<!--facebook-->
-			<a href="https://twitter.com/Firedragon_Play" target="_blank">
-				<i class="fab fa-twitter"></i>
-			</a>
-			<!--twitter-->
-			<a href="https://dsc.gg/flamebot" target="_blank">
-				<i class="fas fa-plus"></i>
-			</a>
-
-			<a href="https://discord.gg/FCP2HWksBU" target="_blank>">
-				<i class="far fa-question-circle"></i>
-			</a>
-			<!--youtube-->
-			<a href="https://youtube.com/c/FiredragonPlayz">
-				<i class="fab fa-youtube"></i>
-			</a>
-			<a href="https://github.com/FiredragonPlayz">
-				<i class="fab fa-github"></i>
-			</a>
-		</div>
-	</footer>
-
-
+   
 </body>
-
 </html>
